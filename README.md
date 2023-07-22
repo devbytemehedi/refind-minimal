@@ -1,4 +1,4 @@
-# rEFInd Minimal Themes
+# refind-minimal
 
 [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI based systems. These are a clean and minimal themes for it.
 
@@ -20,7 +20,7 @@ There are two variants of this theme i liked these are:
 Fork this repository to you local directory by running the following command in terminal.
 
 ```bash
-git clone https://github.com/iammrmehedi/rEFInd-Minimal-Themes.git
+git clone https://github.com/devbytemehedi/refind-minimal.git
 ```
 
 ## Usage
